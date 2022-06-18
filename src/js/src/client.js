@@ -1,3 +1,3 @@
 import fetch from 'unfetch';
 
-export const getAllStudents = () => fetch('/studetns');
+export const getAllStudents = () => fetch('/students');
