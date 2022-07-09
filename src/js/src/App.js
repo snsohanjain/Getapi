@@ -9,7 +9,7 @@ class App extends Component{
     getAllStudents().then(res => res.json().then(students => {
       console.log(students);
     }));
-    return <h1>Hello World SpringBoot React </h1>
+    return <h1>Hello World SpringBoot React new </h1>
     
   }
 }
